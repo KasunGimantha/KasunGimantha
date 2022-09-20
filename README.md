@@ -1,6 +1,10 @@
  <h1>👋 Hello !!!!     I'm Kasun ! </h1>
  
 
+ 
+![Github stats](https://github-readme-stats.vercel.app/api?username=KasunGimantha&count_private=true&show_icons=true&theme=radical)
+![Github ststs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunGimantha&show_icons=true&theme=radical)
+
 
 <h2>Working Languages</h2>
 <div>
@@ -41,7 +45,7 @@
 <span>
 <img src="https://ayeshmantha.me/images/logo3.png" style="width:80px;height:80px;" >
 <img src="https://bcg.lk/img/logo8.png" style="width:80px;height:80px;" >
-<img src="http://www.jfn.ac.lk/wp-content/uploads/2020/12/Crest-UJ-1024-_-Corrected.png" style="width:80px;height:80px;" >
+<img src="http://www.jfn.ac.lk/wp-content/uploads/2022/02/Logo-black-and-white.png" style="width:80px;height:80px;" >
 <img src="https://upload.wikimedia.org/wikipedia/en/6/60/University_of_Moratuwa_logo.png" style="width:80px;height:80px;" >
 <img src="https://avatars.githubusercontent.com/u/6937151?s=280&v=4" style="width:80px;height:80px;" >
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Aquinas_College_of_Higher_Studies_Logo.png" style="width:80px;height:80px;" >
@@ -52,7 +56,17 @@
 <br>
 <br>
 
-
+<h2>Connect with Me</h2>
+<div>
+<span>
+ <a href="https://www.facebook.com/kasun.gimantha.96"><h3>Facebook</h3></a>
+ 
+ 
+ 
+ </span>
+</div>
+<br>
+<br>
 
 
 <img src="" style="width:80px;height:80px;" >
@@ -73,8 +87,9 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KasunGimantha&count_private=true&show_icons=true&theme=radical)
 
+ 
+ 
+ 
+ 
 
-
-![Github ststs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunGimantha&show_icons=true&theme=radical)
