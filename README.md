@@ -1,4 +1,5 @@
- <h1>👋 Hello !!!!     I'm Kasun ! </h1>
+ <h1>👋 Hello,     I'm Kasun ! </h1>
+ <h2>I love programming</h2>
  
 
  
@@ -16,8 +17,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="width:80px;height:80px;" >
 </span>
 </div>
-<br>
-<br>
+
 
 <h2>Working IDEs</h2>
 <div>
@@ -26,8 +26,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="width:80px;height:80px;" >
 </span>
 </div>
-<br>
-<br>
 
 <h2>Multimedia</h2>
 <div>
@@ -37,8 +35,16 @@
 <img src="https://logos-download.com/wp-content/uploads/2017/01/Audition_logo_Adobe_Audition_CC-1-700x682.png" style="width:80px;height:80px;" >
 </span>
 </div>
-<br>
-<br>
+
+<h2>Interest</h2>
+<div>
+<span>
+<img src="https://www.pngmart.com/files/21/AI-PNG-HD.png" style="width:130px;height:80px;" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/VR_Logo_Virtual_Reality_Logo.svg/512px-VR_Logo_Virtual_Reality_Logo.svg.png" style="width:80px;height:80px;" >
+<img src="https://cdn-icons-png.flaticon.com/512/2532/2532643.png" style="width:80px;height:80px;" >
+ 
+</span>
+</div>
 
 <h2>Education</h2>
 <div>
@@ -53,29 +59,35 @@
 <img src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" style="width:80px;height:80px;" >
 </span>
 </div>
-<br>
-<br>
+
+
+<h2>Fandoms</h2>
+<div>
+<span>
+<img src="https://pngimg.com/uploads/star_wars_logo/star_wars_logo_PNG34.png" style="width:80px;height:80px;" >
+<img src="https://www.transparentpng.com/thumb/transformers-logo/GImFNF-transformers-text-logo-clipart-png-file.png" style="width:200px;height:80px;" >
+
+</span>
+</div>
+
 
 <h2>Connect with Me</h2>
 <div>
 <span>
- <a href="https://www.facebook.com/kasun.gimantha.96"><h3>Facebook</h3></a>
  
+ <h3><a href="https://www.facebook.com/kasun.gimantha.96">Facebook</a></h3>
+ <h3><a href="https://www.youtube.com/channel/UCwGxZn0DCUNqQ7w4x9g4YJQ">Youtube</a></h3>
+ <h3><a href="https://twitter.com/KasunGimantha">Twitter</a></h3>
+ <h3><a href="https://www.linkedin.com/in/kasun-gimantha-507344226">Linkedin</a></h3>
+ <h3><a href="https://www.instagram.com/kasun_gimantha">Instagram</a></h3>
+ <h3><a href="https://www.reddit.com/user/KaZuN_G">Reddit</a></h3>
+
  
- 
- </span>
+</span>
 </div>
-<br>
-<br>
 
 
-<img src="" style="width:80px;height:80px;" >
-<img src="" style="width:80px;height:80px;" >
-<img src="" style="width:80px;height:80px;" >
-<img src="" style="width:80px;height:80px;" >
-<img src="" style="width:80px;height:80px;" >
-<img src="" style="width:80px;height:80px;" >
-<img src="" style="width:80px;height:80px;" >
+
 
 
 
