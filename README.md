@@ -2,16 +2,73 @@
  
 
 
+<h2>Working Languages</h2>
+<div>
+<span>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="width:80px;height:80px;" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="width:80px;height:80px;" >
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:70px;height:70px;" >
+<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="width:80px;height:80px;" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="width:80px;height:80px;" >
+</span>
+</div>
+<br>
+<br>
+
+<h2>Working IDEs</h2>
+<div>
+<span>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" style="width:130px;height:80px;" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="width:80px;height:80px;" >
+</span>
+</div>
+<br>
+<br>
+
+<h2>Multimedia</h2>
+<div>
+<span>
+<img src="https://brandslogos.com/wp-content/uploads/images/adobe-photoshop-cs4-logo.png" style="width:80px;height:80px;" >
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/premiere-pro-cc-logo-vector.svg" style="width:80px;height:80px;" >
+<img src="https://logos-download.com/wp-content/uploads/2017/01/Audition_logo_Adobe_Audition_CC-1-700x682.png" style="width:80px;height:80px;" >
+</span>
+</div>
+<br>
+<br>
+
+<h2>Education</h2>
+<div>
+<span>
+<img src="https://ayeshmantha.me/images/logo3.png" style="width:80px;height:80px;" >
+<img src="https://bcg.lk/img/logo8.png" style="width:80px;height:80px;" >
+<img src="http://www.jfn.ac.lk/wp-content/uploads/2020/12/Crest-UJ-1024-_-Corrected.png" style="width:80px;height:80px;" >
+<img src="https://upload.wikimedia.org/wikipedia/en/6/60/University_of_Moratuwa_logo.png" style="width:80px;height:80px;" >
+<img src="https://avatars.githubusercontent.com/u/6937151?s=280&v=4" style="width:80px;height:80px;" >
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Aquinas_College_of_Higher_Studies_Logo.png" style="width:80px;height:80px;" >
+<img src="https://cdn01.alison-static.net/public/html/site/img/media-kit/alison-logo-inverted.jpg" style="width:180px;height:70px;" >
+<img src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" style="width:80px;height:80px;" >
+</span>
+</div>
+<br>
+<br>
 
 
-<img src="https://camo.githubusercontent.com/d2da7e7ec8424780720101d4853c64dffb81dc69dfdd25a0ce88cdb3848bbc6f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d48544d4c3526636f6c6f723d453334463236266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646266c6162656c3d">
-
-<img src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145">
 
 
-<img src="https://camo.githubusercontent.com/9fe0ddca8c80fd49703246ca3b9a894ddfdc9c1c80f6ab5de92bbe91471dbab8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d">
-<img src="https://camo.githubusercontent.com/333efdf3d52583cf7c536e5364439a833bb89c25afffbb42550c2bf0ce260827/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f2b436f646526636f6c6f723d303037414343266c6f676f3d56697375616c2b53747564696f2b436f6465266c6f676f436f6c6f723d464646464646266c6162656c3d">
-<img src="https://camo.githubusercontent.com/7b2324b305d6c55a7c0aa7cb47ba8666d2bc3d4b597b06979c9564135d87b80a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d2532333432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465">
+<img src="" style="width:80px;height:80px;" >
+<img src="" style="width:80px;height:80px;" >
+<img src="" style="width:80px;height:80px;" >
+<img src="" style="width:80px;height:80px;" >
+<img src="" style="width:80px;height:80px;" >
+<img src="" style="width:80px;height:80px;" >
+<img src="" style="width:80px;height:80px;" >
+
+
+
+
+
+
+</span>
 
 
 
