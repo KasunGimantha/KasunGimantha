@@ -66,6 +66,7 @@
 <span>
 <img src="https://pngimg.com/uploads/star_wars_logo/star_wars_logo_PNG34.png" style="width:80px;height:80px;" >
 <img src="https://www.transparentpng.com/thumb/transformers-logo/GImFNF-transformers-text-logo-clipart-png-file.png" style="width:200px;height:80px;" >
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/1e558f21-fc1f-40a3-ac47-96fe1547e004/d94xj8m-aa45372a-8da3-4812-b8d9-8b43b0318127.png" style="width:150px;height:60px;" >
 
 </span>
 </div>
