@@ -58,6 +58,7 @@
 </span>
 </div>
 
+<!--
 <h2>Education</h2>
 <div>
 <span>
@@ -71,7 +72,7 @@
 <img src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" style="width:80px;height:80px;" >
 </span>
 </div>
-
+-->
 
 <h2>Fandoms</h2>
 <div>
