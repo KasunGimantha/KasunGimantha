@@ -1,7 +1,7 @@
  <div>
  
 <h1>👋 Hello,     I'm Kasun ! </h1>
-<h2>I love programming because I need to understand programming memes</h2>
+<h2>I learn programming because I need to understand programming memes</h2>
  
   ![Github stats](https://komarev.com/ghpvc/?username=KasunGimantha&color=orange&style=plastic)
   
