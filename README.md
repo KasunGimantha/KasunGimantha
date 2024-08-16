@@ -4,7 +4,7 @@
 
 👨‍💻 **Code Wizard Extraordinaire** | 🐍 **Python Fanati** | 🌍 **World Improver** | 💡 **AI & ML Enthusiast** | ✨ **Idea Alchemist**
 
-🔗 **Witness my lightning-fast coding skills:**(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)
+🔗 **Witness my lightning-fast coding skills:** [![Fast Coding Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)
 
 🤖 **I learn Python because I want to make the world a better place, serve humanity for a greater purpose, and, of course, pay my bills too! 💸💡**
 
