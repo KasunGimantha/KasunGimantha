@@ -1,8 +1,16 @@
  <div>
  
 <h1>👋 Hello,     I'm Kasun ! </h1>
-<h2>I learn programming because I need to understand programming memes</h2>
- 
+
+👨‍💻 **Code Wizard Extraordinaire** | 🐍 **Python Fanati** | 🌍 **World Improver** | 💡 **AI & ML Enthusiast** | ✨ **Idea Alchemist**
+
+🔗 **Witness my lightning-fast coding skills:**(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)
+
+🤖 **I learn Python because I want to make the world a better place, serve humanity for a greater purpose, and, of course, pay my bills too! 💸💡**
+
+😂 **Join me on this coding adventure where bugs are just misunderstood features!**
+
+
   ![Github stats](https://komarev.com/ghpvc/?username=KasunGimantha&color=orange&style=plastic)
   
 
