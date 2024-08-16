@@ -4,7 +4,7 @@
 
 <h2>Average Python Enthusiast🐍 |  A passionate about artificial intelligence and machine learning 🤖 | from 🇱🇰 <h2>
 
- <center>[![Fast Coding Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif) </center>
+ [![Fast Coding Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif) 
 
  <h2>I study Python to solve problems for humanity and improve the planet(and pay my bills too!😭)<h2>
 
