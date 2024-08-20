@@ -81,11 +81,11 @@
 <div align="center">
   <h2>🔗 Connect with Me</h2>
   <div class="social-icons">
-      <a href="https://www.facebook.com/profile.php?id=100012893073389"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="65" height="65" alt="Facebook"></a>
-      <a href="https://www.youtube.com/channel/UCwGxZn0DCUNqQ7w4x9g4YJQ"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="65" height="65" alt="YouTube"></a>
-      <a href="https://twitter.com/KasunGimantha"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/105px-X_logo_2023.svg.png" width="65" height="65" alt="Twitter"></a>
-      <a href="https://www.linkedin.com/in/kasun-gimantha-507344226"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="65" width="150" alt="LinkedIn"></a>
-      <a href="https://www.instagram.com/kasun_gimantha"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="65" height="65" alt="Instagram"></a>
+      <a href="https://www.facebook.com/profile.php?id=100012893073389"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="35" height="35" alt="Facebook"></a>
+      <a href="https://www.youtube.com/channel/UCwGxZn0DCUNqQ7w4x9g4YJQ"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="35" height="35" alt="YouTube"></a>
+      <a href="https://twitter.com/KasunGimantha"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/105px-X_logo_2023.svg.png" width="35" height="35" alt="Twitter"></a>
+      <a href="https://www.linkedin.com/in/kasun-gimantha-507344226"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="35" width="150" alt="LinkedIn"></a>
+      <a href="https://www.instagram.com/kasun_gimantha"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35" height="35" alt="Instagram"></a>
       <a href="https://www.reddit.com/user/KaZuN_G"><img src ="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/800px-Reddit_Logo_Icon.svg.png" width="65" height="65" alt="Reddit"></a>
   </div>
 </div>
