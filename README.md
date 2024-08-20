@@ -48,8 +48,8 @@
         <br><strong>CSS</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br><strong>Bootstrap</strong>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="Bootstrap" />
+        <br><strong>JavaScript</strong>
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
