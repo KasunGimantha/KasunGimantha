@@ -1,127 +1,51 @@
- <div>
- 
-<h1>👋 Hello,     I'm Kasun !  I build things </h1>
+# 👋 Hello, I'm Kasun!
 
-<h2>Average Python Enthusiast🐍 |  A passionate about artificial intelligence and machine learning 🤖 | from 🇱🇰 <h2>
+## Front-end Developer | Average Python Enthusiast🐍 | Passionate about AI and Machine Learning 🤖 | From 🇱🇰
 
- [![Fast Coding Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif) 
+![Fast Coding Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif)
 
- <h2>I study Python to solve problems for humanity and improve the planet(and pay my bills too!😭)<h2>
+I build things to solve problems for humanity and improve the planet (and pay my bills too!😭)
 
+![Profile Views](https://komarev.com/ghpvc/?username=KasunGimantha&label=Profile%20views&color=0e75b6&style=flat)
 
-  ![Github stats](https://komarev.com/ghpvc/?username=KasunGimantha&color=orange&style=plastic)
-  
+---
 
-  
- </div> 
+## 🛠️ My Favorite Tools and Technologies
 
- 
- 
+| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | ![TensorFlow](https://raw.githubusercontent.com/tandpfun/skill-icons/9dd71f055e165ec4115bfdac9efc678ef42129f2/icons/TensorFlow-Dark.svg) | ![Django](https://www.djangoproject.com/m/img/logos/django-logo-negative.svg) | ![Flask](https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Flask-Dark.svg) | ![MySQL](https://raw.githubusercontent.com/tandpfun/skill-icons/9dd71f055e165ec4115bfdac9efc678ef42129f2/icons/MySQL-Light.svg) |
+|:---:|:---:|:---:|:---:|:---:|
+| **Python** | **TensorFlow** | **Django** | **Flask** | **MySQL** |
 
- 
+| ![HTML](https://techstack-generator.vercel.app/react-icon.svg) | ![CSS](https://skillicons.dev/icons?i=css) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![GitHub](https://techstack-generator.vercel.app/github-icon.svg) | ![Git](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png) |
+|:---:|:---:|:---:|:---:|:---:|
+| **HTML** | **CSS** | **Bootstrap** | **GitHub** | **Git** |
 
- 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KasunGimantha&count_private=true&show_icons=true&theme=radical)
-![Github ststs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunGimantha&show_icons=true&theme=radical)
+---
 
+## 📊 GitHub Stats
 
-<h2>Working Languages</h2>
-<div>
-<span>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="width:80px;height:80px;" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="width:80px;height:80px;" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="width:70px;height:70px;" >
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="width:80px;height:80px;" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="width:80px;height:80px;" >
-</span>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KasunGimantha&count_private=true&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunGimantha&show_icons=true&theme=radical)
 
+---
 
-<h2>Working IDEs</h2>
-<div>
-<span>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" style="width:130px;height:80px;" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="width:80px;height:80px;" >
-</span>
-</div>
+## 🌟 Interests
 
-<h2>Multimedia</h2>
-<div>
-<span>
-<img src="https://brandslogos.com/wp-content/uploads/images/adobe-photoshop-cs4-logo.png" style="width:80px;height:80px;" >
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/premiere-pro-cc-logo-vector.svg" style="width:80px;height:80px;" >
-<img src="https://logos-download.com/wp-content/uploads/2017/01/Audition_logo_Adobe_Audition_CC-1-700x682.png" style="width:80px;height:80px;" >
-</span>
-</div>
+![AI](https://www.pngmart.com/files/21/AI-PNG-HD.png)
+![VR](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/VR_Logo_Virtual_Reality_Logo.svg/512px-VR_Logo_Virtual_Reality_Logo.svg.png)
+![Tech](https://cdn-icons-png.flaticon.com/512/2532/2532643.png)
 
-<h2>Interest</h2>
-<div>
-<span>
-<img src="https://www.pngmart.com/files/21/AI-PNG-HD.png" style="width:130px;height:80px;" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/VR_Logo_Virtual_Reality_Logo.svg/512px-VR_Logo_Virtual_Reality_Logo.svg.png" style="width:80px;height:80px;" >
-<img src="https://cdn-icons-png.flaticon.com/512/2532/2532643.png" style="width:80px;height:80px;" >
- 
-</span>
-</div>
+---
 
-<!--
-<h2>Education</h2>
-<div>
-<span>
-<img src="https://ayeshmantha.me/images/logo3.png" style="width:80px;height:80px;" >
-<img src="https://bcg.lk/img/logo8.png" style="width:80px;height:80px;" >
-<img src="http://www.jfn.ac.lk/wp-content/uploads/2022/02/Logo-black-and-white.png" style="width:80px;height:80px;" >
-<img src="https://upload.wikimedia.org/wikipedia/en/6/60/University_of_Moratuwa_logo.png" style="width:80px;height:80px;" >
-<img src="https://avatars.githubusercontent.com/u/6937151?s=280&v=4" style="width:80px;height:80px;" >
-<img src="https://upload.wikimedia.org/wikipedia/en/c/cf/Aquinas_College_of_Higher_Studies_Logo.png" style="width:80px;height:80px;" >
-<img src="https://cdn01.alison-static.net/public/html/site/img/media-kit/alison-logo-inverted.jpg" style="width:180px;height:70px;" >
-<img src="https://cdn-images-1.medium.com/max/1200/1*hsdk74SBj4i_UfX8SaW6YA.png" style="width:80px;height:80px;" >
-</span>
-</div>
--->
+## 🔗 Connect with Me
 
-<h2>Fandoms</h2>
-<div>
-<span>
-<img src="https://pngimg.com/uploads/star_wars_logo/star_wars_logo_PNG34.png" style="width:80px;height:80px;" >
-<img src="https://www.transparentpng.com/thumb/transformers-logo/GImFNF-transformers-text-logo-clipart-png-file.png" style="width:200px;height:80px;" >
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/1e558f21-fc1f-40a3-ac47-96fe1547e004/d94xj8m-aa45372a-8da3-4812-b8d9-8b43b0318127.png" style="width:150px;height:60px;" >
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/profile.php?id=100012893073389)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/channel/UCwGxZn0DCUNqQ7w4x9g4YJQ)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/105px-X_logo_2023.svg.png)](https://twitter.com/KasunGimantha)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/kasun-gimantha-507344226)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/kasun_gimantha)
+[![Reddit](https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/800px-Reddit_Logo_Icon.svg.png)](https://www.reddit.com/user/KaZuN_G)
 
-</span>
-</div>
+---
 
-
-<h2>Connect with Me</h2>
-<div>
-<span>
- 
- <h3><a href="https://www.facebook.com/profile.php?id=100012893073389">Facebook</a></h3>
- <h3><a href="https://www.youtube.com/channel/UCwGxZn0DCUNqQ7w4x9g4YJQ">Youtube</a></h3>
- <h3><a href="https://twitter.com/KasunGimantha">Twitter</a></h3>
- <h3><a href="https://www.linkedin.com/in/kasun-gimantha-507344226">Linkedin</a></h3>
- <h3><a href="https://www.instagram.com/kasun_gimantha">Instagram</a></h3>
- <h3><a href="https://www.reddit.com/user/KaZuN_G">Reddit</a></h3>
-
- 
-</span>
-</div>
-
-
-
-
-
-
-
-
-
-</span>
-
-
-
-
-
- 
- 
- 
- 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
