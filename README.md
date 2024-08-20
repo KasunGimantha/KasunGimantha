@@ -1,4 +1,4 @@
-<center><h1>👋 Hello, I'm Kasun!</h1>
+<center><h1>👋 Hello, I'm Kasun!</h1></center>
 <h2>Front-end Developer | Average Python Enthusiast🐍 | Passionate about AI and Machine Learning 🤖 | From 🇱🇰</h2>
 
 <p>
