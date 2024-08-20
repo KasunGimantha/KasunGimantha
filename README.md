@@ -78,17 +78,17 @@
   </span>
 </div>
 
-<div align="center">
-  <h2>🔗 Connect with Me</h2>
-  <span>
-    <h3><a href="https://www.facebook.com/profile.php?id=100012893073389">Facebook</a></h3>
-    <h3><a href="https://www.youtube.com/channel/UCwGxZn0DCUNqQ7w4x9g4YJQ">YouTube</a></h3>
-    <h3><a href="https://twitter.com/KasunGimantha">Twitter</a></h3>
-    <h3><a href="https://www.linkedin.com/in/kasun-gimantha-507344226">LinkedIn</a></h3>
-    <h3><a href="https://www.instagram.com/kasun_gimantha">Instagram</a></h3>
-    <h3><a href="https://www.reddit.com/user/KaZuN_G">Reddit</a></h3>
-  </span>
-</div>
+ <div align="center">
+        <h2>🔗 Connect with Me</h2>
+        <div class="social-icons">
+            <a href="https://www.facebook.com/profile.php?id=100012893073389"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook"></a>
+            <a href="https://www.youtube.com/channel/UCwGxZn0DCUNqQ7w4x9g4YJQ"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube"></a>
+            <a href="https://twitter.com/KasunGimantha"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/105px-X_logo_2023.svg.png" alt="Twitter"></a>
+            <a href="https://www.linkedin.com/in/kasun-gimantha-507344226"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" style="width: 105px;" alt="LinkedIn"></a>
+            <a href="https://www.instagram.com/kasun_gimantha"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"></a>
+            <a href="https://www.reddit.com/user/KaZuN_G"><img src ="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Reddit_Logo_Icon.svg/800px-Reddit_Logo_Icon.svg.png" alt="Reddit"></a>
+        </div>
+    </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
