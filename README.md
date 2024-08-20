@@ -8,7 +8,7 @@
   </a>
 </p>
 </center>
-<h3>I build things to solve problems for humanity and improve the planet (and pay my bills too!😭)</h3>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KasunGimantha&label=Profile%20views&color=0e75b6&style=flat)
 
