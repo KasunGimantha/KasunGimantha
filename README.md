@@ -26,7 +26,7 @@
         <br><strong>TensorFlow</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
         <br><strong>Django</strong>
       </td>
       <td align="center" width="96">
@@ -34,7 +34,7 @@
         <br><strong>Flask</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/9dd71f055e165ec4115bfdac9efc678ef42129f2/icons/MySQL-Light.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
         <br><strong>MySQL</strong>
       </td>
     </tr>
