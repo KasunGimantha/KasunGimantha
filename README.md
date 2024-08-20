@@ -45,11 +45,11 @@
         <br><strong>HTML</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
         <br><strong>CSS</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="Js" />
         <br><strong>JavaScript</strong>
       </td>
       <td align="center" width="96">
@@ -57,7 +57,7 @@
         <br><strong>GitHub</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
         <br><strong>Git</strong>
       </td>
     </tr>
