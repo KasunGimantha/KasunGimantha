@@ -1,4 +1,5 @@
-<center><h1>👋 Hello, I'm Kasun!</h1></center>
+<div align ="center">
+<h1>👋 Hello, I'm Kasun!</h1>
 <h4>Front-end Developer | Average Python Enthusiast🐍 | Passionate about AI and Machine Learning 🤖 | From 🇱🇰</h4>
 
 <p>
@@ -7,7 +8,7 @@
   </a>
 </p>
 </center>
-<center><h2>I build things to solve problems for humanity and improve the planet (and pay my bills too!😭)</h2></center>
+<h3>I build things to solve problems for humanity and improve the planet (and pay my bills too!😭)</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KasunGimantha&label=Profile%20views&color=0e75b6&style=flat)
 
