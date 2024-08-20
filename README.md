@@ -1,4 +1,4 @@
-<h1>👋 Hello, I'm Kasun!</h1>
+<center><h1>👋 Hello, I'm Kasun!</h1>
 <h2>Front-end Developer | Average Python Enthusiast🐍 | Passionate about AI and Machine Learning 🤖 | From 🇱🇰</h2>
 
 <p>
@@ -6,8 +6,8 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jq0GAJC2R5aWP2gnCb/giphy.gif" alt="Fast Coding Meme" />
   </a>
 </p>
-
-<h2>I build things to solve problems for humanity and improve the planet (and pay my bills too!😭)</h2>
+</center>
+<center><h2>I build things to solve problems for humanity and improve the planet (and pay my bills too!😭)</h2></center>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KasunGimantha&label=Profile%20views&color=0e75b6&style=flat)
 
