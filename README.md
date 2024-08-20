@@ -1,6 +1,6 @@
 <div align ="center">
 <h1>👋 Hello, I'm Kasun!</h1>
-<h4>Front-end Developer | Average Python Enthusiast🐍 | Passionate about AI and Machine Learning 🤖 | From 🇱🇰</h4>
+<h4>Front-end Developer💻 | Average Python Enthusiast🐍 | Passionate about AI and Machine Learning 🤖 | From 🇱🇰</h4>
 
 <p>
   <a href="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN1YjE3dWtiajJjeXUxcHQ0MzA0amlqbXJwbW4xNHkzZzN2YXVtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n" >
